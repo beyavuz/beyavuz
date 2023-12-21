@@ -2,7 +2,7 @@
 
 I'm a software developer and also a cyber security researcher.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyavuz&show_icons=true&theme=radical)
 
 <!--
 **beyavuz/beyavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
