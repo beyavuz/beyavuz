@@ -7,7 +7,7 @@
 </div>
 
 <p>
-  - You can't break it if you don't know how, you can't make it secure if you don't know how to break it.
+  - You can't break it if you don't know how build it, you can't make it secure if you don't know how to break it.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
