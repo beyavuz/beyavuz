@@ -32,9 +32,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=beyavuz&show_icons=true&theme=radical" alt="beyavuz" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beyavuz&show_icons=true&locale=en&layout=compact" alt="beyavuz" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beyavuz&show_icons=true&theme=radical" alt="beyavuz" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=beyavuz&show_icons=true&locale=en&layout=compact&theme=radical" alt="beyavuz" />
+</p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beyavuz&" alt="beyavuz" /></p> -->
 
