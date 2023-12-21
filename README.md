@@ -1,6 +1,11 @@
-### ⚠️ ATTENTION ALL PERSONNEL ☣️
+<!-- ### ⚠️ ATTENTION ALL PERSONNEL ☣️ -->
 
-I'm a software developer and also a cyber security researcher.
+
+<h1 align="center">☣️ ATTENTION ALL PERSONNEL ☣️</h1>
+
+<div  align="center">
+  <p>I'm a software developer and also a cyber security researcher.</p>
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyavuz&show_icons=true&theme=radical)
 
