@@ -10,7 +10,9 @@
   - You can't break it if you don't know how build it, you can't make it secure if you don't know how to break it.
 </p>
 
-<img align="center" src="https://i.imgur.com/URagT62.gif">
+<p align="center">
+  <img align="center" src="https://i.imgur.com/URagT62.gif">
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
