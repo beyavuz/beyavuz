@@ -10,6 +10,8 @@
   - You can't break it if you don't know how build it, you can't make it secure if you don't know how to break it.
 </p>
 
+<img src="https://i.imgur.com/URagT62.gif">
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
